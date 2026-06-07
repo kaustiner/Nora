@@ -6,4 +6,6 @@ pip install pyautogui
 pip install pynput
 pip install pycaw
 pip install comtypes
-pip install pyaudio
+pip install sounddevice
+pip install scipy
+pip install numpy
