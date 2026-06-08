@@ -10,3 +10,4 @@ pip install sounddevice
 pip install scipy
 pip install numpy
 pip install pyautogui pillow
+pip install pywin32
