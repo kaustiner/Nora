@@ -11,3 +11,4 @@ pip install scipy
 pip install numpy
 pip install pyautogui pillow
 pip install pywin32
+pip install flask
