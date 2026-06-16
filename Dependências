@@ -15,3 +15,4 @@ pip install flask
 pip install pyperclip
 pip install yt-dlp playsound
 pip install customtkinter
+pip show customtkinter
