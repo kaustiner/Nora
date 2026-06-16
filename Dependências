@@ -14,3 +14,4 @@ pip install pywin32
 pip install flask
 pip install pyperclip
 pip install yt-dlp playsound
+pip install customtkinter
